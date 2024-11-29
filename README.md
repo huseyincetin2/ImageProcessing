@@ -1,6 +1,6 @@
-# Görsel İşleme 
+# Sayısal Görsel İşleme 
 
-## [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)
-+ **[AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)**
+## [ChestX-ray8 veri seti kullanılarak göğüs röntgeni görüntüleri üzerinde veri keşfi ve görüntü işleme tekniklerini!]
++ **[CoLab](https://www.coursera.org/learn/ai-for-medical-diagnosis)**
   
 
